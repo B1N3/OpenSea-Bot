@@ -8,6 +8,9 @@ where the most recent version of this server will run
 [Note: If you choose to use our instance, your API key will be stored in our database!].
 
 
+Web app and mobile apps are on the road map
+
+
 # Deployment and Maintenance for local instances
 
 Before development, maintenance and deployment, make sure you meet all requirements specified bellow:
