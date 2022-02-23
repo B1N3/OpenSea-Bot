@@ -5,7 +5,7 @@ You will need to obtain a API key from OpenSea to use this service. Each user ne
 This server instance can run locally on your machine at home or you can use our provided URL (opensea.b1n3.net)
 where the most recent version of this server will run
 
-[Note: If you choose to do so, your API key will be stored in our database!].
+[Note: If you choose to use our instance, your API key will be stored in our database!].
 
 
 # Deployment and Maintenance for local instances
